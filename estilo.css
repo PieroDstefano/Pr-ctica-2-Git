@@ -16,6 +16,22 @@
 .bodyInternacional{
     background-color: cornflowerblue;
 }
+.bodyEconomia{
+    background-color: rgb(250, 208, 229);
+}
+.tituloEconomia{
+    color: black;
+}
+
+.cajaEconomia,.cajaEconomia2{
+    border: 3px solid violet;
+    border-radius: 300px;
+    text-align: center;
+}
+.parrafoEconomia{
+    margin: 10px;
+}
+
 
 .encabezado{
     grid-column: 2/5;

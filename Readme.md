@@ -7,4 +7,4 @@
 -sociedad.html
 -tecnologia
 
-Esta carpeta sirve mas apra hacer apuntes
+Esta carpeta sirve mas para hacer apuntes

@@ -1,0 +1,49 @@
+.bodyIndex{
+    background-color: rgb(235, 230, 225);
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: repeat(3,1fr);
+    min-height: 100vh;
+}
+.bodySociedad{
+    background-color: burlywood;
+    display: grid;
+    min-height: 100vh;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+}
+
+.bodyInternacional{
+    background-color: cornflowerblue;
+}
+
+.encabezado{
+    grid-column: 2/5;
+    text-align: center;
+}
+#articulo1{
+    grid-column: 2/3;
+    grid-row: 2/3;
+    border: 5px solid black;
+}
+#articulo2{
+    grid-column: 4/5;
+    grid-row: 2/3;
+    border: 5px solid black;
+
+}
+h1{
+    color: crimson;
+}
+.parrafoI{
+    margin:25px;
+}
+.cajaSociedad{
+
+    grid-column: 2/3;
+
+}
+.cajaSociedad2{
+    grid-column: 2/3;
+    grid-row: 2/3;
+}

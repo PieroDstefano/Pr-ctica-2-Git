@@ -63,3 +63,12 @@ h1{
     grid-column: 2/3;
     grid-row: 2/3;
 }
+.Main{
+    grid-column: 3/4;
+    background-color: blanchedalmond;
+
+    
+}
+.listaIndex{
+    margin: 20px;
+}

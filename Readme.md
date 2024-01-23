@@ -6,3 +6,5 @@
 -salud.html
 -sociedad.html
 -tecnologia
+
+Esta carpeta sirve mas apra hacer apuntes

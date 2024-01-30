@@ -1,9 +1,10 @@
 .bodyIndex{
-    background-color: rgb(235, 230, 225);
+    background-color: rgb(230, 202, 175);
     display: grid;
     grid-template-columns: repeat(5,1fr);
     grid-template-rows: repeat(3,1fr);
     min-height: 100vh;
+
 }
 .bodySociedad{
     background-color: burlywood;
